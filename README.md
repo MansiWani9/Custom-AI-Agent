@@ -210,13 +210,6 @@ agentctl "show package manager info"
 - **CPU Usage**: Minimal during idle, spikes during LLM calls
 - **Storage**: ~10-50MB for logs and state files
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## 📄 License
 
@@ -228,12 +221,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **FastAPI**: For the excellent web framework
 - **Python Community**: For the robust ecosystem
 
-## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/genai-agent/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/genai-agent/discussions)
-- **Wiki**: [Project Wiki](https://github.com/yourusername/genai-agent/wiki)
-
----
-
-**Made with ❤️ by the GenAI Linux Agent Team**
